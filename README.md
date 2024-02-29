@@ -1,4 +1,5 @@
 <h2><center>Political Analysis: What does the media say about the Opposition?</center></h2>
+<h4>Project based on: Webscraping, VADER_Sentiment Analysis </h4>
 
 <h4>Problem Description (Hypothetical)</h4>
 Indian opposition parties lack a tool to quickly collect and gauge the negative sentiment-specific statements published in online media to understand public reactions to key topics and adjust their messaging accordingly. The sheer volume of published articles daily, makes it impossible for Indian opposition parties to manually comb through them for valuable insights. It may further result in limited understanding of public sentiment, hindering their ability to strategize effectively.
